@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SivaAdithya/react_pj1/static/css/main.4cb69276.css",
+    "main.js": "/SivaAdithya/react_pj1/static/js/main.1fba0344.js",
+    "static/js/787.69edda74.chunk.js": "/SivaAdithya/react_pj1/static/js/787.69edda74.chunk.js",
+    "index.html": "/SivaAdithya/react_pj1/index.html",
+    "main.4cb69276.css.map": "/SivaAdithya/react_pj1/static/css/main.4cb69276.css.map",
+    "main.1fba0344.js.map": "/SivaAdithya/react_pj1/static/js/main.1fba0344.js.map",
+    "787.69edda74.chunk.js.map": "/SivaAdithya/react_pj1/static/js/787.69edda74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb69276.css",
+    "static/js/main.1fba0344.js"
+  ]
+}
